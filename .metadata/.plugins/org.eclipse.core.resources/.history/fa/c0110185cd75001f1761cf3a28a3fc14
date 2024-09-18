@@ -1,0 +1,5 @@
+package com.learn.redis.config;
+
+public class RedisConfig {
+
+}
